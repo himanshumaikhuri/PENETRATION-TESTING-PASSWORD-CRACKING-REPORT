@@ -129,13 +129,13 @@ This practical exercise demonstrated that static document encryption is only as 
 
 Screenshots collected as evidence during the activities are stored in the `/screenshots` directory:
 
-* ![Hash1](Hash1.png)
-* ![Hash2](Hash2.png)
-* ![Pass1](Pass1.png)
-* ![Pass2](Pass2.png)
-* ![fLAG1](fLAG1.png)
-* ![fLAG2](fLAG2.png)
-* ![fLAG3](fLAG3.png)
+* ![Hash1](./screenshots/Hash1.png)
+* ![Hash2](./screenshots/Hash2.png)
+* ![Pass1](./screenshots/Pass1.png)
+* ![Pass2](./screenshots/Pass2.png)
+* ![fLAG1](./screenshots/fLAG1.png)
+* ![fLAG2](./screenshots/fLAG2.png)
+* ![fLAG3](./screenshots/fLAG3.png)
 
 ---
 *- End of Report -*
