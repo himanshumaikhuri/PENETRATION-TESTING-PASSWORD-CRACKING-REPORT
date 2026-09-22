@@ -10,9 +10,7 @@
 | **Pentester Name (Cybersecurity Professional)** | Himanshu Maikhuri |
 | **Program/Batch** | B083-Networkwalks |
 | **Date** | 21 September 2026 |
-| **Modules completed** | W3-PM1: PDF Hash Extraction via OnlineHashCrack
-                          W3-PM2: Password Auditing via JTR_Johnny GUI (Win x64)
-                          W3-PM3: Encrypted File Unlocking & CTF Flag Capture |
+| **Modules completed** | W3-PM1: PDF Hash Extraction via OnlineHashCrack W3-PM2: Password Auditing via JTR_Johnny GUI (Win x64) W3-PM3: Encrypted File Unlocking & CTF Flag Capture |
 
 | **Client/Target** | 1. Networkwalks CTF Lab Targets (My Locked PDF1.pdf, My Locked PDF2.pdf) |
 | **Permission secured from client?** | Yes (Authorized Internship CTF Environment)|
